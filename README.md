@@ -2,7 +2,7 @@
 
 The value of `STRIDE` should be chosen to defeat prefetching on the test architecture.
 
-To run on PVC:
+Example run on Intel PVC:
 
 ```sh
 # Source your compilers
